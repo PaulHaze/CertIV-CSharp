@@ -1,0 +1,10 @@
+D:\Repos\lab4_3_Furniture\lab4_3_Furniture\bin\Debug\lab4_3_Furniture.exe.config
+D:\Repos\lab4_3_Furniture\lab4_3_Furniture\bin\Debug\lab4_3_Furniture.exe
+D:\Repos\lab4_3_Furniture\lab4_3_Furniture\bin\Debug\lab4_3_Furniture.pdb
+D:\Repos\lab4_3_Furniture\lab4_3_Furniture\obj\Debug\lab4_3_Furniture.csprojResolveAssemblyReference.cache
+D:\Repos\lab4_3_Furniture\lab4_3_Furniture\obj\Debug\lab4_3_Furniture.Form1.resources
+D:\Repos\lab4_3_Furniture\lab4_3_Furniture\obj\Debug\lab4_3_Furniture.Properties.Resources.resources
+D:\Repos\lab4_3_Furniture\lab4_3_Furniture\obj\Debug\lab4_3_Furniture.csproj.GenerateResource.Cache
+D:\Repos\lab4_3_Furniture\lab4_3_Furniture\obj\Debug\lab4_3_Furniture.csproj.CoreCompileInputs.cache
+D:\Repos\lab4_3_Furniture\lab4_3_Furniture\obj\Debug\lab4_3_Furniture.exe
+D:\Repos\lab4_3_Furniture\lab4_3_Furniture\obj\Debug\lab4_3_Furniture.pdb

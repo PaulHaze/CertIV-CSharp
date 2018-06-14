@@ -1,0 +1,9 @@
+D:\Repos\Lab5_3_PassFail\Lab5_3_PassFail\bin\Debug\Lab5_3_PassFail.exe.config
+D:\Repos\Lab5_3_PassFail\Lab5_3_PassFail\bin\Debug\Lab5_3_PassFail.exe
+D:\Repos\Lab5_3_PassFail\Lab5_3_PassFail\bin\Debug\Lab5_3_PassFail.pdb
+D:\Repos\Lab5_3_PassFail\Lab5_3_PassFail\obj\Debug\Lab5_3_PassFail.Form1.resources
+D:\Repos\Lab5_3_PassFail\Lab5_3_PassFail\obj\Debug\Lab5_3_PassFail.Properties.Resources.resources
+D:\Repos\Lab5_3_PassFail\Lab5_3_PassFail\obj\Debug\Lab5_3_PassFail.csproj.GenerateResource.cache
+D:\Repos\Lab5_3_PassFail\Lab5_3_PassFail\obj\Debug\Lab5_3_PassFail.csproj.CoreCompileInputs.cache
+D:\Repos\Lab5_3_PassFail\Lab5_3_PassFail\obj\Debug\Lab5_3_PassFail.exe
+D:\Repos\Lab5_3_PassFail\Lab5_3_PassFail\obj\Debug\Lab5_3_PassFail.pdb

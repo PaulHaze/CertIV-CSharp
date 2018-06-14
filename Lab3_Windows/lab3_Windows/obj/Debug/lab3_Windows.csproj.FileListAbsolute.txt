@@ -1,0 +1,10 @@
+D:\Repos\lab3_Windows\lab3_Windows\bin\Debug\lab3_Windows.exe.config
+D:\Repos\lab3_Windows\lab3_Windows\bin\Debug\lab3_Windows.exe
+D:\Repos\lab3_Windows\lab3_Windows\bin\Debug\lab3_Windows.pdb
+D:\Repos\lab3_Windows\lab3_Windows\obj\Debug\lab3_Windows.csprojResolveAssemblyReference.cache
+D:\Repos\lab3_Windows\lab3_Windows\obj\Debug\lab3_Windows.Form1.resources
+D:\Repos\lab3_Windows\lab3_Windows\obj\Debug\lab3_Windows.Properties.Resources.resources
+D:\Repos\lab3_Windows\lab3_Windows\obj\Debug\lab3_Windows.csproj.GenerateResource.Cache
+D:\Repos\lab3_Windows\lab3_Windows\obj\Debug\lab3_Windows.csproj.CoreCompileInputs.cache
+D:\Repos\lab3_Windows\lab3_Windows\obj\Debug\lab3_Windows.exe
+D:\Repos\lab3_Windows\lab3_Windows\obj\Debug\lab3_Windows.pdb

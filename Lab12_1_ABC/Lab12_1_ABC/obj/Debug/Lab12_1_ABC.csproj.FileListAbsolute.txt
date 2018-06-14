@@ -1,0 +1,10 @@
+D:\Repos\Lab12_1_ABC\Lab12_1_ABC\bin\Debug\Lab12_1_ABC.exe.config
+D:\Repos\Lab12_1_ABC\Lab12_1_ABC\bin\Debug\Lab12_1_ABC.exe
+D:\Repos\Lab12_1_ABC\Lab12_1_ABC\bin\Debug\Lab12_1_ABC.pdb
+D:\Repos\Lab12_1_ABC\Lab12_1_ABC\obj\Debug\Lab12_1_ABC.csprojResolveAssemblyReference.cache
+D:\Repos\Lab12_1_ABC\Lab12_1_ABC\obj\Debug\Lab12_1_ABC.Form1.resources
+D:\Repos\Lab12_1_ABC\Lab12_1_ABC\obj\Debug\Lab12_1_ABC.Properties.Resources.resources
+D:\Repos\Lab12_1_ABC\Lab12_1_ABC\obj\Debug\Lab12_1_ABC.csproj.GenerateResource.cache
+D:\Repos\Lab12_1_ABC\Lab12_1_ABC\obj\Debug\Lab12_1_ABC.csproj.CoreCompileInputs.cache
+D:\Repos\Lab12_1_ABC\Lab12_1_ABC\obj\Debug\Lab12_1_ABC.exe
+D:\Repos\Lab12_1_ABC\Lab12_1_ABC\obj\Debug\Lab12_1_ABC.pdb

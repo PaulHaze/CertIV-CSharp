@@ -1,0 +1,10 @@
+D:\Repos\lab3_4_ticketnumber\lab3_4_ticketnumber\bin\Debug\lab3_4_ticketnumber.exe.config
+D:\Repos\lab3_4_ticketnumber\lab3_4_ticketnumber\bin\Debug\lab3_4_ticketnumber.exe
+D:\Repos\lab3_4_ticketnumber\lab3_4_ticketnumber\bin\Debug\lab3_4_ticketnumber.pdb
+D:\Repos\lab3_4_ticketnumber\lab3_4_ticketnumber\obj\Debug\lab3_4_ticketnumber.csprojResolveAssemblyReference.cache
+D:\Repos\lab3_4_ticketnumber\lab3_4_ticketnumber\obj\Debug\lab3_4_ticketnumber.Form1.resources
+D:\Repos\lab3_4_ticketnumber\lab3_4_ticketnumber\obj\Debug\lab3_4_ticketnumber.Properties.Resources.resources
+D:\Repos\lab3_4_ticketnumber\lab3_4_ticketnumber\obj\Debug\lab3_4_ticketnumber.csproj.GenerateResource.Cache
+D:\Repos\lab3_4_ticketnumber\lab3_4_ticketnumber\obj\Debug\lab3_4_ticketnumber.csproj.CoreCompileInputs.cache
+D:\Repos\lab3_4_ticketnumber\lab3_4_ticketnumber\obj\Debug\lab3_4_ticketnumber.exe
+D:\Repos\lab3_4_ticketnumber\lab3_4_ticketnumber\obj\Debug\lab3_4_ticketnumber.pdb

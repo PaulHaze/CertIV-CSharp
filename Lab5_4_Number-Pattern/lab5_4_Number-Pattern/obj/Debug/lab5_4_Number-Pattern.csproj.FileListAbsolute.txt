@@ -1,0 +1,10 @@
+D:\Repos\lab5_4_Number-Pattern\lab5_4_Number-Pattern\bin\Debug\lab5_4_Number-Pattern.exe.config
+D:\Repos\lab5_4_Number-Pattern\lab5_4_Number-Pattern\bin\Debug\lab5_4_Number-Pattern.exe
+D:\Repos\lab5_4_Number-Pattern\lab5_4_Number-Pattern\bin\Debug\lab5_4_Number-Pattern.pdb
+D:\Repos\lab5_4_Number-Pattern\lab5_4_Number-Pattern\obj\Debug\lab5_4_Number-Pattern.csprojResolveAssemblyReference.cache
+D:\Repos\lab5_4_Number-Pattern\lab5_4_Number-Pattern\obj\Debug\lab5_4_Number_Pattern.Form1.resources
+D:\Repos\lab5_4_Number-Pattern\lab5_4_Number-Pattern\obj\Debug\lab5_4_Number_Pattern.Properties.Resources.resources
+D:\Repos\lab5_4_Number-Pattern\lab5_4_Number-Pattern\obj\Debug\lab5_4_Number-Pattern.csproj.GenerateResource.cache
+D:\Repos\lab5_4_Number-Pattern\lab5_4_Number-Pattern\obj\Debug\lab5_4_Number-Pattern.csproj.CoreCompileInputs.cache
+D:\Repos\lab5_4_Number-Pattern\lab5_4_Number-Pattern\obj\Debug\lab5_4_Number-Pattern.exe
+D:\Repos\lab5_4_Number-Pattern\lab5_4_Number-Pattern\obj\Debug\lab5_4_Number-Pattern.pdb

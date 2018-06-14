@@ -1,0 +1,10 @@
+D:\Repos\Lab5_6_MovieTicket\Lab5_6_MovieTicket\bin\Debug\Lab5_6_MovieTicket.exe.config
+D:\Repos\Lab5_6_MovieTicket\Lab5_6_MovieTicket\bin\Debug\Lab5_6_MovieTicket.exe
+D:\Repos\Lab5_6_MovieTicket\Lab5_6_MovieTicket\bin\Debug\Lab5_6_MovieTicket.pdb
+D:\Repos\Lab5_6_MovieTicket\Lab5_6_MovieTicket\obj\Debug\Lab5_6_MovieTicket.csprojResolveAssemblyReference.cache
+D:\Repos\Lab5_6_MovieTicket\Lab5_6_MovieTicket\obj\Debug\Lab5_6_MovieTicket.Form1.resources
+D:\Repos\Lab5_6_MovieTicket\Lab5_6_MovieTicket\obj\Debug\Lab5_6_MovieTicket.Properties.Resources.resources
+D:\Repos\Lab5_6_MovieTicket\Lab5_6_MovieTicket\obj\Debug\Lab5_6_MovieTicket.csproj.GenerateResource.cache
+D:\Repos\Lab5_6_MovieTicket\Lab5_6_MovieTicket\obj\Debug\Lab5_6_MovieTicket.csproj.CoreCompileInputs.cache
+D:\Repos\Lab5_6_MovieTicket\Lab5_6_MovieTicket\obj\Debug\Lab5_6_MovieTicket.exe
+D:\Repos\Lab5_6_MovieTicket\Lab5_6_MovieTicket\obj\Debug\Lab5_6_MovieTicket.pdb

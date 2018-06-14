@@ -1,0 +1,10 @@
+D:\Repos\lab5_1_For_Loop_Integers\lab5_1_For_Loop_Integers\bin\Debug\lab5_1_For_Loop_Integers.exe.config
+D:\Repos\lab5_1_For_Loop_Integers\lab5_1_For_Loop_Integers\bin\Debug\lab5_1_For_Loop_Integers.exe
+D:\Repos\lab5_1_For_Loop_Integers\lab5_1_For_Loop_Integers\bin\Debug\lab5_1_For_Loop_Integers.pdb
+D:\Repos\lab5_1_For_Loop_Integers\lab5_1_For_Loop_Integers\obj\Debug\lab5_1_For_Loop_Integers.csprojResolveAssemblyReference.cache
+D:\Repos\lab5_1_For_Loop_Integers\lab5_1_For_Loop_Integers\obj\Debug\lab5_1_For_Loop_Integers.Form1.resources
+D:\Repos\lab5_1_For_Loop_Integers\lab5_1_For_Loop_Integers\obj\Debug\lab5_1_For_Loop_Integers.Properties.Resources.resources
+D:\Repos\lab5_1_For_Loop_Integers\lab5_1_For_Loop_Integers\obj\Debug\lab5_1_For_Loop_Integers.csproj.GenerateResource.cache
+D:\Repos\lab5_1_For_Loop_Integers\lab5_1_For_Loop_Integers\obj\Debug\lab5_1_For_Loop_Integers.csproj.CoreCompileInputs.cache
+D:\Repos\lab5_1_For_Loop_Integers\lab5_1_For_Loop_Integers\obj\Debug\lab5_1_For_Loop_Integers.exe
+D:\Repos\lab5_1_For_Loop_Integers\lab5_1_For_Loop_Integers\obj\Debug\lab5_1_For_Loop_Integers.pdb

@@ -1,0 +1,10 @@
+D:\Repos\lab3_3_Payroll\lab3_3_Payroll\bin\Debug\lab3_3_Payroll.exe.config
+D:\Repos\lab3_3_Payroll\lab3_3_Payroll\bin\Debug\lab3_3_Payroll.exe
+D:\Repos\lab3_3_Payroll\lab3_3_Payroll\bin\Debug\lab3_3_Payroll.pdb
+D:\Repos\lab3_3_Payroll\lab3_3_Payroll\obj\Debug\lab3_3_Payroll.csprojResolveAssemblyReference.cache
+D:\Repos\lab3_3_Payroll\lab3_3_Payroll\obj\Debug\lab3_3_Payroll.Form1.resources
+D:\Repos\lab3_3_Payroll\lab3_3_Payroll\obj\Debug\lab3_3_Payroll.Properties.Resources.resources
+D:\Repos\lab3_3_Payroll\lab3_3_Payroll\obj\Debug\lab3_3_Payroll.csproj.GenerateResource.Cache
+D:\Repos\lab3_3_Payroll\lab3_3_Payroll\obj\Debug\lab3_3_Payroll.csproj.CoreCompileInputs.cache
+D:\Repos\lab3_3_Payroll\lab3_3_Payroll\obj\Debug\lab3_3_Payroll.exe
+D:\Repos\lab3_3_Payroll\lab3_3_Payroll\obj\Debug\lab3_3_Payroll.pdb

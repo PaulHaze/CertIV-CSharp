@@ -1,0 +1,10 @@
+D:\Repos\Lab6_3_Sum50\Lab6_3_Sum50\bin\Debug\Lab6_3_Sum50.exe.config
+D:\Repos\Lab6_3_Sum50\Lab6_3_Sum50\bin\Debug\Lab6_3_Sum50.exe
+D:\Repos\Lab6_3_Sum50\Lab6_3_Sum50\bin\Debug\Lab6_3_Sum50.pdb
+D:\Repos\Lab6_3_Sum50\Lab6_3_Sum50\obj\Debug\Lab6_3_Sum50.csprojResolveAssemblyReference.cache
+D:\Repos\Lab6_3_Sum50\Lab6_3_Sum50\obj\Debug\Lab6_3_Sum50.Form1.resources
+D:\Repos\Lab6_3_Sum50\Lab6_3_Sum50\obj\Debug\Lab6_3_Sum50.Properties.Resources.resources
+D:\Repos\Lab6_3_Sum50\Lab6_3_Sum50\obj\Debug\Lab6_3_Sum50.csproj.GenerateResource.cache
+D:\Repos\Lab6_3_Sum50\Lab6_3_Sum50\obj\Debug\Lab6_3_Sum50.csproj.CoreCompileInputs.cache
+D:\Repos\Lab6_3_Sum50\Lab6_3_Sum50\obj\Debug\Lab6_3_Sum50.exe
+D:\Repos\Lab6_3_Sum50\Lab6_3_Sum50\obj\Debug\Lab6_3_Sum50.pdb

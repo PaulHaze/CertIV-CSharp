@@ -1,0 +1,9 @@
+C:\Users\PEa104-21\Desktop\Paul_Hayes_ISBN_Test\Paul_Hayes_ISBN_Test\bin\Debug\Paul_Hayes_ISBN_Test.exe.config
+C:\Users\PEa104-21\Desktop\Paul_Hayes_ISBN_Test\Paul_Hayes_ISBN_Test\bin\Debug\Paul_Hayes_ISBN_Test.exe
+C:\Users\PEa104-21\Desktop\Paul_Hayes_ISBN_Test\Paul_Hayes_ISBN_Test\bin\Debug\Paul_Hayes_ISBN_Test.pdb
+C:\Users\PEa104-21\Desktop\Paul_Hayes_ISBN_Test\Paul_Hayes_ISBN_Test\obj\Debug\Paul_Hayes_ISBN_Test.csprojResolveAssemblyReference.cache
+C:\Users\PEa104-21\Desktop\Paul_Hayes_ISBN_Test\Paul_Hayes_ISBN_Test\obj\Debug\Paul_Hayes_ISBN_Test.Form1.resources
+C:\Users\PEa104-21\Desktop\Paul_Hayes_ISBN_Test\Paul_Hayes_ISBN_Test\obj\Debug\Paul_Hayes_ISBN_Test.Properties.Resources.resources
+C:\Users\PEa104-21\Desktop\Paul_Hayes_ISBN_Test\Paul_Hayes_ISBN_Test\obj\Debug\Paul_Hayes_ISBN_Test.csproj.GenerateResource.Cache
+C:\Users\PEa104-21\Desktop\Paul_Hayes_ISBN_Test\Paul_Hayes_ISBN_Test\obj\Debug\Paul_Hayes_ISBN_Test.exe
+C:\Users\PEa104-21\Desktop\Paul_Hayes_ISBN_Test\Paul_Hayes_ISBN_Test\obj\Debug\Paul_Hayes_ISBN_Test.pdb

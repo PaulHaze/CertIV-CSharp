@@ -1,0 +1,10 @@
+D:\Repos\Lab5_1_Vowel\Lab5_1_Vowel\bin\Debug\Lab5_1_Vowel.exe.config
+D:\Repos\Lab5_1_Vowel\Lab5_1_Vowel\bin\Debug\Lab5_1_Vowel.exe
+D:\Repos\Lab5_1_Vowel\Lab5_1_Vowel\bin\Debug\Lab5_1_Vowel.pdb
+D:\Repos\Lab5_1_Vowel\Lab5_1_Vowel\obj\Debug\Lab5_1_Vowel.csprojResolveAssemblyReference.cache
+D:\Repos\Lab5_1_Vowel\Lab5_1_Vowel\obj\Debug\Lab5_1_Vowel.Form1.resources
+D:\Repos\Lab5_1_Vowel\Lab5_1_Vowel\obj\Debug\Lab5_1_Vowel.Properties.Resources.resources
+D:\Repos\Lab5_1_Vowel\Lab5_1_Vowel\obj\Debug\Lab5_1_Vowel.csproj.GenerateResource.cache
+D:\Repos\Lab5_1_Vowel\Lab5_1_Vowel\obj\Debug\Lab5_1_Vowel.csproj.CoreCompileInputs.cache
+D:\Repos\Lab5_1_Vowel\Lab5_1_Vowel\obj\Debug\Lab5_1_Vowel.exe
+D:\Repos\Lab5_1_Vowel\Lab5_1_Vowel\obj\Debug\Lab5_1_Vowel.pdb

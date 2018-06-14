@@ -1,0 +1,10 @@
+D:\Repos\Lab5_2_ArithmeticChoice\Lab5_2_ArithmeticChoice\bin\Debug\Lab5_2_ArithmeticChoice.exe.config
+D:\Repos\Lab5_2_ArithmeticChoice\Lab5_2_ArithmeticChoice\bin\Debug\Lab5_2_ArithmeticChoice.exe
+D:\Repos\Lab5_2_ArithmeticChoice\Lab5_2_ArithmeticChoice\bin\Debug\Lab5_2_ArithmeticChoice.pdb
+D:\Repos\Lab5_2_ArithmeticChoice\Lab5_2_ArithmeticChoice\obj\Debug\Lab5_2_ArithmeticChoice.csprojResolveAssemblyReference.cache
+D:\Repos\Lab5_2_ArithmeticChoice\Lab5_2_ArithmeticChoice\obj\Debug\Lab5_2_ArithmeticChoice.Form1.resources
+D:\Repos\Lab5_2_ArithmeticChoice\Lab5_2_ArithmeticChoice\obj\Debug\Lab5_2_ArithmeticChoice.Properties.Resources.resources
+D:\Repos\Lab5_2_ArithmeticChoice\Lab5_2_ArithmeticChoice\obj\Debug\Lab5_2_ArithmeticChoice.csproj.GenerateResource.cache
+D:\Repos\Lab5_2_ArithmeticChoice\Lab5_2_ArithmeticChoice\obj\Debug\Lab5_2_ArithmeticChoice.csproj.CoreCompileInputs.cache
+D:\Repos\Lab5_2_ArithmeticChoice\Lab5_2_ArithmeticChoice\obj\Debug\Lab5_2_ArithmeticChoice.exe
+D:\Repos\Lab5_2_ArithmeticChoice\Lab5_2_ArithmeticChoice\obj\Debug\Lab5_2_ArithmeticChoice.pdb

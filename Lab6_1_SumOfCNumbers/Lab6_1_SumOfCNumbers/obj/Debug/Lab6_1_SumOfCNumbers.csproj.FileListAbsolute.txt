@@ -1,0 +1,9 @@
+D:\Repos\Lab6_1_SumOfCNumbers\Lab6_1_SumOfCNumbers\bin\Debug\Lab6_1_SumOfCNumbers.exe.config
+D:\Repos\Lab6_1_SumOfCNumbers\Lab6_1_SumOfCNumbers\bin\Debug\Lab6_1_SumOfCNumbers.exe
+D:\Repos\Lab6_1_SumOfCNumbers\Lab6_1_SumOfCNumbers\bin\Debug\Lab6_1_SumOfCNumbers.pdb
+D:\Repos\Lab6_1_SumOfCNumbers\Lab6_1_SumOfCNumbers\obj\Debug\Lab6_1_SumOfCNumbers.Form1.resources
+D:\Repos\Lab6_1_SumOfCNumbers\Lab6_1_SumOfCNumbers\obj\Debug\Lab6_1_SumOfCNumbers.Properties.Resources.resources
+D:\Repos\Lab6_1_SumOfCNumbers\Lab6_1_SumOfCNumbers\obj\Debug\Lab6_1_SumOfCNumbers.csproj.GenerateResource.cache
+D:\Repos\Lab6_1_SumOfCNumbers\Lab6_1_SumOfCNumbers\obj\Debug\Lab6_1_SumOfCNumbers.csproj.CoreCompileInputs.cache
+D:\Repos\Lab6_1_SumOfCNumbers\Lab6_1_SumOfCNumbers\obj\Debug\Lab6_1_SumOfCNumbers.exe
+D:\Repos\Lab6_1_SumOfCNumbers\Lab6_1_SumOfCNumbers\obj\Debug\Lab6_1_SumOfCNumbers.pdb

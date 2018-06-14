@@ -1,0 +1,9 @@
+C:\Users\PEa104-21\Desktop\Paul_Hayes_Trial_Skill_Exam\Paul_Hayes_Trial_Skill_Exam\bin\Debug\Paul_Hayes_Trial_Skill_Exam.exe.config
+C:\Users\PEa104-21\Desktop\Paul_Hayes_Trial_Skill_Exam\Paul_Hayes_Trial_Skill_Exam\bin\Debug\Paul_Hayes_Trial_Skill_Exam.exe
+C:\Users\PEa104-21\Desktop\Paul_Hayes_Trial_Skill_Exam\Paul_Hayes_Trial_Skill_Exam\bin\Debug\Paul_Hayes_Trial_Skill_Exam.pdb
+C:\Users\PEa104-21\Desktop\Paul_Hayes_Trial_Skill_Exam\Paul_Hayes_Trial_Skill_Exam\obj\Debug\Paul_Hayes_Trial_Skill_Exam.csprojResolveAssemblyReference.cache
+C:\Users\PEa104-21\Desktop\Paul_Hayes_Trial_Skill_Exam\Paul_Hayes_Trial_Skill_Exam\obj\Debug\Paul_Hayes_Trial_Skill_Exam.Form1.resources
+C:\Users\PEa104-21\Desktop\Paul_Hayes_Trial_Skill_Exam\Paul_Hayes_Trial_Skill_Exam\obj\Debug\Paul_Hayes_Trial_Skill_Exam.Properties.Resources.resources
+C:\Users\PEa104-21\Desktop\Paul_Hayes_Trial_Skill_Exam\Paul_Hayes_Trial_Skill_Exam\obj\Debug\Paul_Hayes_Trial_Skill_Exam.csproj.GenerateResource.Cache
+C:\Users\PEa104-21\Desktop\Paul_Hayes_Trial_Skill_Exam\Paul_Hayes_Trial_Skill_Exam\obj\Debug\Paul_Hayes_Trial_Skill_Exam.exe
+C:\Users\PEa104-21\Desktop\Paul_Hayes_Trial_Skill_Exam\Paul_Hayes_Trial_Skill_Exam\obj\Debug\Paul_Hayes_Trial_Skill_Exam.pdb

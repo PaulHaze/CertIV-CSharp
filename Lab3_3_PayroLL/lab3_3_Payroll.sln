@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3_3_Payroll", "lab3_3_Payroll\lab3_3_Payroll.csproj", "{52293B2F-6E24-4EA7-BF1C-125DFB59140E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52293B2F-6E24-4EA7-BF1C-125DFB59140E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52293B2F-6E24-4EA7-BF1C-125DFB59140E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52293B2F-6E24-4EA7-BF1C-125DFB59140E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52293B2F-6E24-4EA7-BF1C-125DFB59140E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3104B3D9-ABC7-4F4A-9E0E-4CE43CE40555}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+D:\Repos\Lab5_2_9-Times-Table\Lab5_2_9-Times-Table\bin\Debug\Lab5_2_9-Times-Table.exe.config
+D:\Repos\Lab5_2_9-Times-Table\Lab5_2_9-Times-Table\bin\Debug\Lab5_2_9-Times-Table.exe
+D:\Repos\Lab5_2_9-Times-Table\Lab5_2_9-Times-Table\bin\Debug\Lab5_2_9-Times-Table.pdb
+D:\Repos\Lab5_2_9-Times-Table\Lab5_2_9-Times-Table\obj\Debug\Lab5_2_9_Times_Table.Form1.resources
+D:\Repos\Lab5_2_9-Times-Table\Lab5_2_9-Times-Table\obj\Debug\Lab5_2_9_Times_Table.Properties.Resources.resources
+D:\Repos\Lab5_2_9-Times-Table\Lab5_2_9-Times-Table\obj\Debug\Lab5_2_9-Times-Table.csproj.GenerateResource.cache
+D:\Repos\Lab5_2_9-Times-Table\Lab5_2_9-Times-Table\obj\Debug\Lab5_2_9-Times-Table.csproj.CoreCompileInputs.cache
+D:\Repos\Lab5_2_9-Times-Table\Lab5_2_9-Times-Table\obj\Debug\Lab5_2_9-Times-Table.exe
+D:\Repos\Lab5_2_9-Times-Table\Lab5_2_9-Times-Table\obj\Debug\Lab5_2_9-Times-Table.pdb

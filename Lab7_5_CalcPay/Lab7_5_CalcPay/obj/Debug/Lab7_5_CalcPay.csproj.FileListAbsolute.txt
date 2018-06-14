@@ -1,0 +1,10 @@
+D:\Repos\Labs\Lab7_5_CalcPay\Lab7_5_CalcPay\bin\Debug\Lab7_5_CalcPay.exe.config
+D:\Repos\Labs\Lab7_5_CalcPay\Lab7_5_CalcPay\bin\Debug\Lab7_5_CalcPay.exe
+D:\Repos\Labs\Lab7_5_CalcPay\Lab7_5_CalcPay\bin\Debug\Lab7_5_CalcPay.pdb
+D:\Repos\Labs\Lab7_5_CalcPay\Lab7_5_CalcPay\obj\Debug\Lab7_5_CalcPay.csprojResolveAssemblyReference.cache
+D:\Repos\Labs\Lab7_5_CalcPay\Lab7_5_CalcPay\obj\Debug\Lab7_5_CalcPay.Form1.resources
+D:\Repos\Labs\Lab7_5_CalcPay\Lab7_5_CalcPay\obj\Debug\Lab7_5_CalcPay.Properties.Resources.resources
+D:\Repos\Labs\Lab7_5_CalcPay\Lab7_5_CalcPay\obj\Debug\Lab7_5_CalcPay.csproj.GenerateResource.cache
+D:\Repos\Labs\Lab7_5_CalcPay\Lab7_5_CalcPay\obj\Debug\Lab7_5_CalcPay.csproj.CoreCompileInputs.cache
+D:\Repos\Labs\Lab7_5_CalcPay\Lab7_5_CalcPay\obj\Debug\Lab7_5_CalcPay.exe
+D:\Repos\Labs\Lab7_5_CalcPay\Lab7_5_CalcPay\obj\Debug\Lab7_5_CalcPay.pdb

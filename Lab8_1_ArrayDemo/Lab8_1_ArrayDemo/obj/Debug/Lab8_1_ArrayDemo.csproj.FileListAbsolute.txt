@@ -1,0 +1,10 @@
+D:\Repos\Lab8_1_ArrayDemo\Lab8_1_ArrayDemo\bin\Debug\Lab8_1_ArrayDemo.exe.config
+D:\Repos\Lab8_1_ArrayDemo\Lab8_1_ArrayDemo\bin\Debug\Lab8_1_ArrayDemo.exe
+D:\Repos\Lab8_1_ArrayDemo\Lab8_1_ArrayDemo\bin\Debug\Lab8_1_ArrayDemo.pdb
+D:\Repos\Lab8_1_ArrayDemo\Lab8_1_ArrayDemo\obj\Debug\Lab8_1_ArrayDemo.csprojResolveAssemblyReference.cache
+D:\Repos\Lab8_1_ArrayDemo\Lab8_1_ArrayDemo\obj\Debug\Lab8_1_ArrayDemo.Form1.resources
+D:\Repos\Lab8_1_ArrayDemo\Lab8_1_ArrayDemo\obj\Debug\Lab8_1_ArrayDemo.Properties.Resources.resources
+D:\Repos\Lab8_1_ArrayDemo\Lab8_1_ArrayDemo\obj\Debug\Lab8_1_ArrayDemo.csproj.GenerateResource.cache
+D:\Repos\Lab8_1_ArrayDemo\Lab8_1_ArrayDemo\obj\Debug\Lab8_1_ArrayDemo.csproj.CoreCompileInputs.cache
+D:\Repos\Lab8_1_ArrayDemo\Lab8_1_ArrayDemo\obj\Debug\Lab8_1_ArrayDemo.exe
+D:\Repos\Lab8_1_ArrayDemo\Lab8_1_ArrayDemo\obj\Debug\Lab8_1_ArrayDemo.pdb

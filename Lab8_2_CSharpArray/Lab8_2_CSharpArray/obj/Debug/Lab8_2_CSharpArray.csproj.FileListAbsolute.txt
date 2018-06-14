@@ -1,0 +1,10 @@
+D:\Repos\Lab8_2_CSharpArray\Lab8_2_CSharpArray\bin\Debug\Lab8_2_CSharpArray.exe.config
+D:\Repos\Lab8_2_CSharpArray\Lab8_2_CSharpArray\bin\Debug\Lab8_2_CSharpArray.exe
+D:\Repos\Lab8_2_CSharpArray\Lab8_2_CSharpArray\bin\Debug\Lab8_2_CSharpArray.pdb
+D:\Repos\Lab8_2_CSharpArray\Lab8_2_CSharpArray\obj\Debug\Lab8_2_CSharpArray.csprojResolveAssemblyReference.cache
+D:\Repos\Lab8_2_CSharpArray\Lab8_2_CSharpArray\obj\Debug\Lab8_2_CSharpArray.Form1.resources
+D:\Repos\Lab8_2_CSharpArray\Lab8_2_CSharpArray\obj\Debug\Lab8_2_CSharpArray.Properties.Resources.resources
+D:\Repos\Lab8_2_CSharpArray\Lab8_2_CSharpArray\obj\Debug\Lab8_2_CSharpArray.csproj.GenerateResource.cache
+D:\Repos\Lab8_2_CSharpArray\Lab8_2_CSharpArray\obj\Debug\Lab8_2_CSharpArray.csproj.CoreCompileInputs.cache
+D:\Repos\Lab8_2_CSharpArray\Lab8_2_CSharpArray\obj\Debug\Lab8_2_CSharpArray.exe
+D:\Repos\Lab8_2_CSharpArray\Lab8_2_CSharpArray\obj\Debug\Lab8_2_CSharpArray.pdb

@@ -1,0 +1,9 @@
+D:\Repos\Lab5_5_Star-pattern\Lab5_5_Star-pattern\bin\Debug\Lab5_5_Star-pattern.exe.config
+D:\Repos\Lab5_5_Star-pattern\Lab5_5_Star-pattern\bin\Debug\Lab5_5_Star-pattern.exe
+D:\Repos\Lab5_5_Star-pattern\Lab5_5_Star-pattern\bin\Debug\Lab5_5_Star-pattern.pdb
+D:\Repos\Lab5_5_Star-pattern\Lab5_5_Star-pattern\obj\Debug\Lab5_5_Star_pattern.Form1.resources
+D:\Repos\Lab5_5_Star-pattern\Lab5_5_Star-pattern\obj\Debug\Lab5_5_Star_pattern.Properties.Resources.resources
+D:\Repos\Lab5_5_Star-pattern\Lab5_5_Star-pattern\obj\Debug\Lab5_5_Star-pattern.csproj.GenerateResource.cache
+D:\Repos\Lab5_5_Star-pattern\Lab5_5_Star-pattern\obj\Debug\Lab5_5_Star-pattern.csproj.CoreCompileInputs.cache
+D:\Repos\Lab5_5_Star-pattern\Lab5_5_Star-pattern\obj\Debug\Lab5_5_Star-pattern.exe
+D:\Repos\Lab5_5_Star-pattern\Lab5_5_Star-pattern\obj\Debug\Lab5_5_Star-pattern.pdb

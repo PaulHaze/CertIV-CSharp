@@ -1,0 +1,10 @@
+D:\Repos\Lab11_6_Rectangle\Lab11_6_Rectangle\bin\Debug\Lab11_6_Rectangle.exe.config
+D:\Repos\Lab11_6_Rectangle\Lab11_6_Rectangle\bin\Debug\Lab11_6_Rectangle.exe
+D:\Repos\Lab11_6_Rectangle\Lab11_6_Rectangle\bin\Debug\Lab11_6_Rectangle.pdb
+D:\Repos\Lab11_6_Rectangle\Lab11_6_Rectangle\obj\Debug\Lab11_6_Rectangle.csprojResolveAssemblyReference.cache
+D:\Repos\Lab11_6_Rectangle\Lab11_6_Rectangle\obj\Debug\Lab11_6_Rectangle.Form1.resources
+D:\Repos\Lab11_6_Rectangle\Lab11_6_Rectangle\obj\Debug\Lab11_6_Rectangle.Properties.Resources.resources
+D:\Repos\Lab11_6_Rectangle\Lab11_6_Rectangle\obj\Debug\Lab11_6_Rectangle.csproj.GenerateResource.cache
+D:\Repos\Lab11_6_Rectangle\Lab11_6_Rectangle\obj\Debug\Lab11_6_Rectangle.csproj.CoreCompileInputs.cache
+D:\Repos\Lab11_6_Rectangle\Lab11_6_Rectangle\obj\Debug\Lab11_6_Rectangle.exe
+D:\Repos\Lab11_6_Rectangle\Lab11_6_Rectangle\obj\Debug\Lab11_6_Rectangle.pdb

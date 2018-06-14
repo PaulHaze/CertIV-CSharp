@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7_2_BasicMaths", "Lab7_2_BasicMaths\Lab7_2_BasicMaths.csproj", "{64BAE6A5-4EEF-46C2-8589-7D9238F4CDDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64BAE6A5-4EEF-46C2-8589-7D9238F4CDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64BAE6A5-4EEF-46C2-8589-7D9238F4CDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64BAE6A5-4EEF-46C2-8589-7D9238F4CDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64BAE6A5-4EEF-46C2-8589-7D9238F4CDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2818C69F-AA0D-4282-B382-B13D49E78748}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\Repos\Lab5_4_IQ\Lab5_4_IQ\obj\Debug\Lab5_4_IQ.csprojResolveAssemblyReference.cache
+D:\Repos\Lab5_4_IQ\Lab5_4_IQ\obj\Debug\Lab5_4_IQ.Form1.resources
+D:\Repos\Lab5_4_IQ\Lab5_4_IQ\obj\Debug\Lab5_4_IQ.Properties.Resources.resources
+D:\Repos\Lab5_4_IQ\Lab5_4_IQ\obj\Debug\Lab5_4_IQ.csproj.GenerateResource.cache
+D:\Repos\Lab5_4_IQ\Lab5_4_IQ\obj\Debug\Lab5_4_IQ.csproj.CoreCompileInputs.cache
+D:\Repos\Lab5_4_IQ\Lab5_4_IQ\bin\Debug\Lab5_4_IQ.exe.config
+D:\Repos\Lab5_4_IQ\Lab5_4_IQ\bin\Debug\Lab5_4_IQ.exe
+D:\Repos\Lab5_4_IQ\Lab5_4_IQ\bin\Debug\Lab5_4_IQ.pdb
+D:\Repos\Lab5_4_IQ\Lab5_4_IQ\obj\Debug\Lab5_4_IQ.exe
+D:\Repos\Lab5_4_IQ\Lab5_4_IQ\obj\Debug\Lab5_4_IQ.pdb

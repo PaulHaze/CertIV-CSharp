@@ -1,0 +1,10 @@
+D:\Repos\Lab12_8_Constants\Lab12_8_Constants\bin\Debug\Lab12_8_Constants.exe.config
+D:\Repos\Lab12_8_Constants\Lab12_8_Constants\bin\Debug\Lab12_8_Constants.exe
+D:\Repos\Lab12_8_Constants\Lab12_8_Constants\bin\Debug\Lab12_8_Constants.pdb
+D:\Repos\Lab12_8_Constants\Lab12_8_Constants\obj\Debug\Lab12_8_Constants.csprojResolveAssemblyReference.cache
+D:\Repos\Lab12_8_Constants\Lab12_8_Constants\obj\Debug\Lab12_8_Constants.Form1.resources
+D:\Repos\Lab12_8_Constants\Lab12_8_Constants\obj\Debug\Lab12_8_Constants.Properties.Resources.resources
+D:\Repos\Lab12_8_Constants\Lab12_8_Constants\obj\Debug\Lab12_8_Constants.csproj.GenerateResource.cache
+D:\Repos\Lab12_8_Constants\Lab12_8_Constants\obj\Debug\Lab12_8_Constants.csproj.CoreCompileInputs.cache
+D:\Repos\Lab12_8_Constants\Lab12_8_Constants\obj\Debug\Lab12_8_Constants.exe
+D:\Repos\Lab12_8_Constants\Lab12_8_Constants\obj\Debug\Lab12_8_Constants.pdb

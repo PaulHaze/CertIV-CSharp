@@ -1,0 +1,10 @@
+D:\Repos\Lab12_2_Customers\Lab12_2_Customers\bin\Debug\Lab12_2_Customers.exe.config
+D:\Repos\Lab12_2_Customers\Lab12_2_Customers\bin\Debug\Lab12_2_Customers.exe
+D:\Repos\Lab12_2_Customers\Lab12_2_Customers\bin\Debug\Lab12_2_Customers.pdb
+D:\Repos\Lab12_2_Customers\Lab12_2_Customers\obj\Debug\Lab12_2_Customers.csprojResolveAssemblyReference.cache
+D:\Repos\Lab12_2_Customers\Lab12_2_Customers\obj\Debug\Lab12_2_Customers.Form1.resources
+D:\Repos\Lab12_2_Customers\Lab12_2_Customers\obj\Debug\Lab12_2_Customers.Properties.Resources.resources
+D:\Repos\Lab12_2_Customers\Lab12_2_Customers\obj\Debug\Lab12_2_Customers.csproj.GenerateResource.cache
+D:\Repos\Lab12_2_Customers\Lab12_2_Customers\obj\Debug\Lab12_2_Customers.csproj.CoreCompileInputs.cache
+D:\Repos\Lab12_2_Customers\Lab12_2_Customers\obj\Debug\Lab12_2_Customers.exe
+D:\Repos\Lab12_2_Customers\Lab12_2_Customers\obj\Debug\Lab12_2_Customers.pdb

@@ -1,0 +1,10 @@
+D:\Repos\Labs\Lab7_2_Basic_Maths\Lab7_2_Basic_Maths\bin\Debug\Lab7_2_Basic_Maths.exe.config
+D:\Repos\Labs\Lab7_2_Basic_Maths\Lab7_2_Basic_Maths\bin\Debug\Lab7_2_Basic_Maths.exe
+D:\Repos\Labs\Lab7_2_Basic_Maths\Lab7_2_Basic_Maths\bin\Debug\Lab7_2_Basic_Maths.pdb
+D:\Repos\Labs\Lab7_2_Basic_Maths\Lab7_2_Basic_Maths\obj\Debug\Lab7_2_Basic_Maths.csprojResolveAssemblyReference.cache
+D:\Repos\Labs\Lab7_2_Basic_Maths\Lab7_2_Basic_Maths\obj\Debug\Lab7_2_Basic_Maths.Form1.resources
+D:\Repos\Labs\Lab7_2_Basic_Maths\Lab7_2_Basic_Maths\obj\Debug\Lab7_2_Basic_Maths.Properties.Resources.resources
+D:\Repos\Labs\Lab7_2_Basic_Maths\Lab7_2_Basic_Maths\obj\Debug\Lab7_2_Basic_Maths.csproj.GenerateResource.cache
+D:\Repos\Labs\Lab7_2_Basic_Maths\Lab7_2_Basic_Maths\obj\Debug\Lab7_2_Basic_Maths.csproj.CoreCompileInputs.cache
+D:\Repos\Labs\Lab7_2_Basic_Maths\Lab7_2_Basic_Maths\obj\Debug\Lab7_2_Basic_Maths.exe
+D:\Repos\Labs\Lab7_2_Basic_Maths\Lab7_2_Basic_Maths\obj\Debug\Lab7_2_Basic_Maths.pdb

@@ -1,0 +1,10 @@
+D:\Repos\Lab_4_EvenNum\Lab_4_EvenNum\bin\Debug\Lab_4_EvenNum.exe.config
+D:\Repos\Lab_4_EvenNum\Lab_4_EvenNum\bin\Debug\Lab_4_EvenNum.exe
+D:\Repos\Lab_4_EvenNum\Lab_4_EvenNum\bin\Debug\Lab_4_EvenNum.pdb
+D:\Repos\Lab_4_EvenNum\Lab_4_EvenNum\obj\Debug\Lab_4_EvenNum.Form1.resources
+D:\Repos\Lab_4_EvenNum\Lab_4_EvenNum\obj\Debug\Lab_4_EvenNum.Properties.Resources.resources
+D:\Repos\Lab_4_EvenNum\Lab_4_EvenNum\obj\Debug\Lab_4_EvenNum.csproj.GenerateResource.Cache
+D:\Repos\Lab_4_EvenNum\Lab_4_EvenNum\obj\Debug\Lab_4_EvenNum.csproj.CoreCompileInputs.cache
+D:\Repos\Lab_4_EvenNum\Lab_4_EvenNum\obj\Debug\Lab_4_EvenNum.exe
+D:\Repos\Lab_4_EvenNum\Lab_4_EvenNum\obj\Debug\Lab_4_EvenNum.pdb
+D:\Repos\Lab_4_EvenNum\Lab_4_EvenNum\obj\Debug\Lab_4_EvenNum.csprojResolveAssemblyReference.cache

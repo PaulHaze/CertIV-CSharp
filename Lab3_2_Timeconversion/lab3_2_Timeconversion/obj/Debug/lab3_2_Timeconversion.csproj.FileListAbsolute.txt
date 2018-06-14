@@ -1,0 +1,10 @@
+D:\Repos\lab3_2_Timeconversion\lab3_2_Timeconversion\bin\Debug\lab3_2_Timeconversion.exe.config
+D:\Repos\lab3_2_Timeconversion\lab3_2_Timeconversion\bin\Debug\lab3_2_Timeconversion.exe
+D:\Repos\lab3_2_Timeconversion\lab3_2_Timeconversion\bin\Debug\lab3_2_Timeconversion.pdb
+D:\Repos\lab3_2_Timeconversion\lab3_2_Timeconversion\obj\Debug\lab3_2_Timeconversion.csprojResolveAssemblyReference.cache
+D:\Repos\lab3_2_Timeconversion\lab3_2_Timeconversion\obj\Debug\lab3_2_Timeconversion.Form1.resources
+D:\Repos\lab3_2_Timeconversion\lab3_2_Timeconversion\obj\Debug\lab3_2_Timeconversion.Properties.Resources.resources
+D:\Repos\lab3_2_Timeconversion\lab3_2_Timeconversion\obj\Debug\lab3_2_Timeconversion.csproj.GenerateResource.Cache
+D:\Repos\lab3_2_Timeconversion\lab3_2_Timeconversion\obj\Debug\lab3_2_Timeconversion.csproj.CoreCompileInputs.cache
+D:\Repos\lab3_2_Timeconversion\lab3_2_Timeconversion\obj\Debug\lab3_2_Timeconversion.exe
+D:\Repos\lab3_2_Timeconversion\lab3_2_Timeconversion\obj\Debug\lab3_2_Timeconversion.pdb

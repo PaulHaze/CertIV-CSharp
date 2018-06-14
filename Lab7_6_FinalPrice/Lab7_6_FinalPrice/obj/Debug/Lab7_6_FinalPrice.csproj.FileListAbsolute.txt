@@ -1,0 +1,10 @@
+D:\Repos\Labs\Lab7_6_FinalPrice\Lab7_6_FinalPrice\bin\Debug\Lab7_6_FinalPrice.exe.config
+D:\Repos\Labs\Lab7_6_FinalPrice\Lab7_6_FinalPrice\bin\Debug\Lab7_6_FinalPrice.exe
+D:\Repos\Labs\Lab7_6_FinalPrice\Lab7_6_FinalPrice\bin\Debug\Lab7_6_FinalPrice.pdb
+D:\Repos\Labs\Lab7_6_FinalPrice\Lab7_6_FinalPrice\obj\Debug\Lab7_6_FinalPrice.csprojResolveAssemblyReference.cache
+D:\Repos\Labs\Lab7_6_FinalPrice\Lab7_6_FinalPrice\obj\Debug\Lab7_6_FinalPrice.Form1.resources
+D:\Repos\Labs\Lab7_6_FinalPrice\Lab7_6_FinalPrice\obj\Debug\Lab7_6_FinalPrice.Properties.Resources.resources
+D:\Repos\Labs\Lab7_6_FinalPrice\Lab7_6_FinalPrice\obj\Debug\Lab7_6_FinalPrice.csproj.GenerateResource.cache
+D:\Repos\Labs\Lab7_6_FinalPrice\Lab7_6_FinalPrice\obj\Debug\Lab7_6_FinalPrice.csproj.CoreCompileInputs.cache
+D:\Repos\Labs\Lab7_6_FinalPrice\Lab7_6_FinalPrice\obj\Debug\Lab7_6_FinalPrice.exe
+D:\Repos\Labs\Lab7_6_FinalPrice\Lab7_6_FinalPrice\obj\Debug\Lab7_6_FinalPrice.pdb

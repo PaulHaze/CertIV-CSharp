@@ -1,0 +1,10 @@
+D:\Repos\lab5_2_Temperature\lab5_2_Temperature\bin\Debug\lab5_2_Temperature.exe.config
+D:\Repos\lab5_2_Temperature\lab5_2_Temperature\bin\Debug\lab5_2_Temperature.exe
+D:\Repos\lab5_2_Temperature\lab5_2_Temperature\bin\Debug\lab5_2_Temperature.pdb
+D:\Repos\lab5_2_Temperature\lab5_2_Temperature\obj\Debug\lab5_2_Temperature.csprojResolveAssemblyReference.cache
+D:\Repos\lab5_2_Temperature\lab5_2_Temperature\obj\Debug\lab5_2_Temperature.Form1.resources
+D:\Repos\lab5_2_Temperature\lab5_2_Temperature\obj\Debug\lab5_2_Temperature.Properties.Resources.resources
+D:\Repos\lab5_2_Temperature\lab5_2_Temperature\obj\Debug\lab5_2_Temperature.csproj.GenerateResource.cache
+D:\Repos\lab5_2_Temperature\lab5_2_Temperature\obj\Debug\lab5_2_Temperature.csproj.CoreCompileInputs.cache
+D:\Repos\lab5_2_Temperature\lab5_2_Temperature\obj\Debug\lab5_2_Temperature.exe
+D:\Repos\lab5_2_Temperature\lab5_2_Temperature\obj\Debug\lab5_2_Temperature.pdb

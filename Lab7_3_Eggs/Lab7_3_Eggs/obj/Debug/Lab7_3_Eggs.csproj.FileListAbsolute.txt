@@ -1,0 +1,9 @@
+D:\Repos\Labs\Lab7_3_Eggs\Lab7_3_Eggs\bin\Debug\Lab7_3_Eggs.exe.config
+D:\Repos\Labs\Lab7_3_Eggs\Lab7_3_Eggs\bin\Debug\Lab7_3_Eggs.exe
+D:\Repos\Labs\Lab7_3_Eggs\Lab7_3_Eggs\bin\Debug\Lab7_3_Eggs.pdb
+D:\Repos\Labs\Lab7_3_Eggs\Lab7_3_Eggs\obj\Debug\Lab7_3_Eggs.Form1.resources
+D:\Repos\Labs\Lab7_3_Eggs\Lab7_3_Eggs\obj\Debug\Lab7_3_Eggs.Properties.Resources.resources
+D:\Repos\Labs\Lab7_3_Eggs\Lab7_3_Eggs\obj\Debug\Lab7_3_Eggs.csproj.GenerateResource.cache
+D:\Repos\Labs\Lab7_3_Eggs\Lab7_3_Eggs\obj\Debug\Lab7_3_Eggs.csproj.CoreCompileInputs.cache
+D:\Repos\Labs\Lab7_3_Eggs\Lab7_3_Eggs\obj\Debug\Lab7_3_Eggs.exe
+D:\Repos\Labs\Lab7_3_Eggs\Lab7_3_Eggs\obj\Debug\Lab7_3_Eggs.pdb

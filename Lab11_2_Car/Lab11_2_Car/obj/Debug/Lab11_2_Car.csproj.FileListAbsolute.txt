@@ -1,0 +1,10 @@
+D:\Repos\Lab11_2_Car\Lab11_2_Car\obj\Debug\Lab11_2_Car.csprojResolveAssemblyReference.cache
+D:\Repos\Lab11_2_Car\Lab11_2_Car\obj\Debug\Lab11_2_Car.Form1.resources
+D:\Repos\Lab11_2_Car\Lab11_2_Car\obj\Debug\Lab11_2_Car.Properties.Resources.resources
+D:\Repos\Lab11_2_Car\Lab11_2_Car\obj\Debug\Lab11_2_Car.csproj.GenerateResource.cache
+D:\Repos\Lab11_2_Car\Lab11_2_Car\obj\Debug\Lab11_2_Car.csproj.CoreCompileInputs.cache
+D:\Repos\Lab11_2_Car\Lab11_2_Car\bin\Debug\Lab11_2_Car.exe.config
+D:\Repos\Lab11_2_Car\Lab11_2_Car\bin\Debug\Lab11_2_Car.exe
+D:\Repos\Lab11_2_Car\Lab11_2_Car\bin\Debug\Lab11_2_Car.pdb
+D:\Repos\Lab11_2_Car\Lab11_2_Car\obj\Debug\Lab11_2_Car.exe
+D:\Repos\Lab11_2_Car\Lab11_2_Car\obj\Debug\Lab11_2_Car.pdb

@@ -1,0 +1,10 @@
+D:\Repos\lab4_1_TestSCore\lab4_1_TestSCore\obj\Debug\lab4_1_TestSCore.csprojResolveAssemblyReference.cache
+D:\Repos\lab4_1_TestSCore\lab4_1_TestSCore\obj\Debug\lab4_1_TestSCore.Form1.resources
+D:\Repos\lab4_1_TestSCore\lab4_1_TestSCore\obj\Debug\lab4_1_TestSCore.Properties.Resources.resources
+D:\Repos\lab4_1_TestSCore\lab4_1_TestSCore\obj\Debug\lab4_1_TestSCore.csproj.GenerateResource.Cache
+D:\Repos\lab4_1_TestSCore\lab4_1_TestSCore\obj\Debug\lab4_1_TestSCore.csproj.CoreCompileInputs.cache
+D:\Repos\lab4_1_TestSCore\lab4_1_TestSCore\bin\Debug\lab4_1_TestSCore.exe.config
+D:\Repos\lab4_1_TestSCore\lab4_1_TestSCore\bin\Debug\lab4_1_TestSCore.exe
+D:\Repos\lab4_1_TestSCore\lab4_1_TestSCore\bin\Debug\lab4_1_TestSCore.pdb
+D:\Repos\lab4_1_TestSCore\lab4_1_TestSCore\obj\Debug\lab4_1_TestSCore.exe
+D:\Repos\lab4_1_TestSCore\lab4_1_TestSCore\obj\Debug\lab4_1_TestSCore.pdb

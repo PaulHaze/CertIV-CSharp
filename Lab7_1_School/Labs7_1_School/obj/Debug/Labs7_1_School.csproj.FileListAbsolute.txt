@@ -1,0 +1,10 @@
+D:\Repos\Labs\Labs7_1_School\Labs7_1_School\bin\Debug\Labs7_1_School.exe.config
+D:\Repos\Labs\Labs7_1_School\Labs7_1_School\bin\Debug\Labs7_1_School.exe
+D:\Repos\Labs\Labs7_1_School\Labs7_1_School\bin\Debug\Labs7_1_School.pdb
+D:\Repos\Labs\Labs7_1_School\Labs7_1_School\obj\Debug\Labs7_1_School.csprojResolveAssemblyReference.cache
+D:\Repos\Labs\Labs7_1_School\Labs7_1_School\obj\Debug\Labs7_1_School.Form1.resources
+D:\Repos\Labs\Labs7_1_School\Labs7_1_School\obj\Debug\Labs7_1_School.Properties.Resources.resources
+D:\Repos\Labs\Labs7_1_School\Labs7_1_School\obj\Debug\Labs7_1_School.csproj.GenerateResource.cache
+D:\Repos\Labs\Labs7_1_School\Labs7_1_School\obj\Debug\Labs7_1_School.csproj.CoreCompileInputs.cache
+D:\Repos\Labs\Labs7_1_School\Labs7_1_School\obj\Debug\Labs7_1_School.exe
+D:\Repos\Labs\Labs7_1_School\Labs7_1_School\obj\Debug\Labs7_1_School.pdb

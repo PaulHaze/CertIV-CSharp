@@ -1,0 +1,10 @@
+D:\Repos\Lab12_9_Enums\Lab12_9_Enums\bin\Debug\Lab12_9_Enums.exe.config
+D:\Repos\Lab12_9_Enums\Lab12_9_Enums\bin\Debug\Lab12_9_Enums.exe
+D:\Repos\Lab12_9_Enums\Lab12_9_Enums\bin\Debug\Lab12_9_Enums.pdb
+D:\Repos\Lab12_9_Enums\Lab12_9_Enums\obj\Debug\Lab12_9_Enums.Form1.resources
+D:\Repos\Lab12_9_Enums\Lab12_9_Enums\obj\Debug\Lab12_9_Enums.Properties.Resources.resources
+D:\Repos\Lab12_9_Enums\Lab12_9_Enums\obj\Debug\Lab12_9_Enums.csproj.GenerateResource.cache
+D:\Repos\Lab12_9_Enums\Lab12_9_Enums\obj\Debug\Lab12_9_Enums.csproj.CoreCompileInputs.cache
+D:\Repos\Lab12_9_Enums\Lab12_9_Enums\obj\Debug\Lab12_9_Enums.exe
+D:\Repos\Lab12_9_Enums\Lab12_9_Enums\obj\Debug\Lab12_9_Enums.pdb
+D:\Repos\Lab12_9_Enums\Lab12_9_Enums\obj\Debug\Lab12_9_Enums.csprojResolveAssemblyReference.cache

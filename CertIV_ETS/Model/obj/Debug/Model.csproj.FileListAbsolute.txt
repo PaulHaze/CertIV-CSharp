@@ -1,0 +1,6 @@
+D:\Repos\CertIV\Model\bin\Debug\Model.dll
+D:\Repos\CertIV\Model\bin\Debug\Model.pdb
+D:\Repos\CertIV\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\Repos\CertIV\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Repos\CertIV\Model\obj\Debug\Model.dll
+D:\Repos\CertIV\Model\obj\Debug\Model.pdb

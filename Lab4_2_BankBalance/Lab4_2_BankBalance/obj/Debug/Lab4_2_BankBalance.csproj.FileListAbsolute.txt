@@ -1,0 +1,9 @@
+D:\Repos\Lab4_2_BankBalance\Lab4_2_BankBalance\bin\Debug\Lab4_2_BankBalance.exe.config
+D:\Repos\Lab4_2_BankBalance\Lab4_2_BankBalance\bin\Debug\Lab4_2_BankBalance.exe
+D:\Repos\Lab4_2_BankBalance\Lab4_2_BankBalance\bin\Debug\Lab4_2_BankBalance.pdb
+D:\Repos\Lab4_2_BankBalance\Lab4_2_BankBalance\obj\Debug\Lab4_2_BankBalance.Form1.resources
+D:\Repos\Lab4_2_BankBalance\Lab4_2_BankBalance\obj\Debug\Lab4_2_BankBalance.Properties.Resources.resources
+D:\Repos\Lab4_2_BankBalance\Lab4_2_BankBalance\obj\Debug\Lab4_2_BankBalance.csproj.GenerateResource.Cache
+D:\Repos\Lab4_2_BankBalance\Lab4_2_BankBalance\obj\Debug\Lab4_2_BankBalance.csproj.CoreCompileInputs.cache
+D:\Repos\Lab4_2_BankBalance\Lab4_2_BankBalance\obj\Debug\Lab4_2_BankBalance.exe
+D:\Repos\Lab4_2_BankBalance\Lab4_2_BankBalance\obj\Debug\Lab4_2_BankBalance.pdb

@@ -1,0 +1,9 @@
+D:\Repos\Labs\Lab7_4_TwoNumbers\Lab7_4_TwoNumbers\bin\Debug\Lab7_4_TwoNumbers.exe.config
+D:\Repos\Labs\Lab7_4_TwoNumbers\Lab7_4_TwoNumbers\bin\Debug\Lab7_4_TwoNumbers.exe
+D:\Repos\Labs\Lab7_4_TwoNumbers\Lab7_4_TwoNumbers\bin\Debug\Lab7_4_TwoNumbers.pdb
+D:\Repos\Labs\Lab7_4_TwoNumbers\Lab7_4_TwoNumbers\obj\Debug\Lab7_4_TwoNumbers.Form1.resources
+D:\Repos\Labs\Lab7_4_TwoNumbers\Lab7_4_TwoNumbers\obj\Debug\Lab7_4_TwoNumbers.Properties.Resources.resources
+D:\Repos\Labs\Lab7_4_TwoNumbers\Lab7_4_TwoNumbers\obj\Debug\Lab7_4_TwoNumbers.csproj.GenerateResource.cache
+D:\Repos\Labs\Lab7_4_TwoNumbers\Lab7_4_TwoNumbers\obj\Debug\Lab7_4_TwoNumbers.csproj.CoreCompileInputs.cache
+D:\Repos\Labs\Lab7_4_TwoNumbers\Lab7_4_TwoNumbers\obj\Debug\Lab7_4_TwoNumbers.exe
+D:\Repos\Labs\Lab7_4_TwoNumbers\Lab7_4_TwoNumbers\obj\Debug\Lab7_4_TwoNumbers.pdb

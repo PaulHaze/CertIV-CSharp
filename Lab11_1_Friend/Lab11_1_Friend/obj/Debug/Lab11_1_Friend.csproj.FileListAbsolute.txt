@@ -1,0 +1,10 @@
+D:\Repos\Lab11_1_Friend\Lab11_1_Friend\bin\Debug\Lab11_1_Friend.exe.config
+D:\Repos\Lab11_1_Friend\Lab11_1_Friend\bin\Debug\Lab11_1_Friend.exe
+D:\Repos\Lab11_1_Friend\Lab11_1_Friend\bin\Debug\Lab11_1_Friend.pdb
+D:\Repos\Lab11_1_Friend\Lab11_1_Friend\obj\Debug\Lab11_1_Friend.csprojResolveAssemblyReference.cache
+D:\Repos\Lab11_1_Friend\Lab11_1_Friend\obj\Debug\Lab11_1_Friend.Form1.resources
+D:\Repos\Lab11_1_Friend\Lab11_1_Friend\obj\Debug\Lab11_1_Friend.Properties.Resources.resources
+D:\Repos\Lab11_1_Friend\Lab11_1_Friend\obj\Debug\Lab11_1_Friend.csproj.GenerateResource.cache
+D:\Repos\Lab11_1_Friend\Lab11_1_Friend\obj\Debug\Lab11_1_Friend.csproj.CoreCompileInputs.cache
+D:\Repos\Lab11_1_Friend\Lab11_1_Friend\obj\Debug\Lab11_1_Friend.exe
+D:\Repos\Lab11_1_Friend\Lab11_1_Friend\obj\Debug\Lab11_1_Friend.pdb

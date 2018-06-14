@@ -1,0 +1,9 @@
+D:\Repos\CertIV\DataAccess\bin\Debug\DataAccess.dll
+D:\Repos\CertIV\DataAccess\bin\Debug\DataAccess.pdb
+D:\Repos\CertIV\DataAccess\bin\Debug\Model.dll
+D:\Repos\CertIV\DataAccess\bin\Debug\Model.pdb
+D:\Repos\CertIV\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\Repos\CertIV\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Repos\CertIV\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\Repos\CertIV\DataAccess\obj\Debug\DataAccess.dll
+D:\Repos\CertIV\DataAccess\obj\Debug\DataAccess.pdb

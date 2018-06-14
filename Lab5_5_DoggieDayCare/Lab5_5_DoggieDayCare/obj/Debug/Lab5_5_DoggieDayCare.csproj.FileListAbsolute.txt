@@ -1,0 +1,10 @@
+D:\Repos\Lab5_5_DoggieDayCare\Lab5_5_DoggieDayCare\bin\Debug\Lab5_5_DoggieDayCare.exe.config
+D:\Repos\Lab5_5_DoggieDayCare\Lab5_5_DoggieDayCare\bin\Debug\Lab5_5_DoggieDayCare.exe
+D:\Repos\Lab5_5_DoggieDayCare\Lab5_5_DoggieDayCare\bin\Debug\Lab5_5_DoggieDayCare.pdb
+D:\Repos\Lab5_5_DoggieDayCare\Lab5_5_DoggieDayCare\obj\Debug\Lab5_5_DoggieDayCare.csprojResolveAssemblyReference.cache
+D:\Repos\Lab5_5_DoggieDayCare\Lab5_5_DoggieDayCare\obj\Debug\Lab5_5_DoggieDayCare.Form1.resources
+D:\Repos\Lab5_5_DoggieDayCare\Lab5_5_DoggieDayCare\obj\Debug\Lab5_5_DoggieDayCare.Properties.Resources.resources
+D:\Repos\Lab5_5_DoggieDayCare\Lab5_5_DoggieDayCare\obj\Debug\Lab5_5_DoggieDayCare.csproj.GenerateResource.cache
+D:\Repos\Lab5_5_DoggieDayCare\Lab5_5_DoggieDayCare\obj\Debug\Lab5_5_DoggieDayCare.csproj.CoreCompileInputs.cache
+D:\Repos\Lab5_5_DoggieDayCare\Lab5_5_DoggieDayCare\obj\Debug\Lab5_5_DoggieDayCare.exe
+D:\Repos\Lab5_5_DoggieDayCare\Lab5_5_DoggieDayCare\obj\Debug\Lab5_5_DoggieDayCare.pdb

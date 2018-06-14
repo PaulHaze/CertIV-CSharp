@@ -1,0 +1,9 @@
+D:\Repos\Lab6_2_NumberPattern\Lab6_2_NumberPattern\bin\Debug\Lab6_2_NumberPattern.exe.config
+D:\Repos\Lab6_2_NumberPattern\Lab6_2_NumberPattern\bin\Debug\Lab6_2_NumberPattern.exe
+D:\Repos\Lab6_2_NumberPattern\Lab6_2_NumberPattern\bin\Debug\Lab6_2_NumberPattern.pdb
+D:\Repos\Lab6_2_NumberPattern\Lab6_2_NumberPattern\obj\Debug\Lab6_2_NumberPattern.Form1.resources
+D:\Repos\Lab6_2_NumberPattern\Lab6_2_NumberPattern\obj\Debug\Lab6_2_NumberPattern.Properties.Resources.resources
+D:\Repos\Lab6_2_NumberPattern\Lab6_2_NumberPattern\obj\Debug\Lab6_2_NumberPattern.csproj.GenerateResource.cache
+D:\Repos\Lab6_2_NumberPattern\Lab6_2_NumberPattern\obj\Debug\Lab6_2_NumberPattern.csproj.CoreCompileInputs.cache
+D:\Repos\Lab6_2_NumberPattern\Lab6_2_NumberPattern\obj\Debug\Lab6_2_NumberPattern.exe
+D:\Repos\Lab6_2_NumberPattern\Lab6_2_NumberPattern\obj\Debug\Lab6_2_NumberPattern.pdb

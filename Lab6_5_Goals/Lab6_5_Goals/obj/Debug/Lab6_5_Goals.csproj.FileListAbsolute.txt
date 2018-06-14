@@ -1,0 +1,10 @@
+D:\Repos\Lab6_5_Goals\Lab6_5_Goals\obj\Debug\Lab6_5_Goals.csprojResolveAssemblyReference.cache
+D:\Repos\Lab6_5_Goals\Lab6_5_Goals\obj\Debug\Lab6_5_Goals.Form1.resources
+D:\Repos\Lab6_5_Goals\Lab6_5_Goals\obj\Debug\Lab6_5_Goals.Properties.Resources.resources
+D:\Repos\Lab6_5_Goals\Lab6_5_Goals\obj\Debug\Lab6_5_Goals.csproj.GenerateResource.cache
+D:\Repos\Lab6_5_Goals\Lab6_5_Goals\obj\Debug\Lab6_5_Goals.csproj.CoreCompileInputs.cache
+D:\Repos\Lab6_5_Goals\Lab6_5_Goals\bin\Debug\Lab6_5_Goals.exe.config
+D:\Repos\Lab6_5_Goals\Lab6_5_Goals\bin\Debug\Lab6_5_Goals.exe
+D:\Repos\Lab6_5_Goals\Lab6_5_Goals\bin\Debug\Lab6_5_Goals.pdb
+D:\Repos\Lab6_5_Goals\Lab6_5_Goals\obj\Debug\Lab6_5_Goals.exe
+D:\Repos\Lab6_5_Goals\Lab6_5_Goals\obj\Debug\Lab6_5_Goals.pdb
