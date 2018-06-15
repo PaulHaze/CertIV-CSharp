@@ -71,21 +71,30 @@ namespace ETS
 
             if (hours.Status == ResultsEnum.Success)
             {
-                // create a new list of all the work hours sorted by date
-                List<EmployeeHours> sortedHours = hours.Data.OrderBy(h => h.WorkDate).ToList();
-
-                // populate the three listboxes on the 'manage hours' tab
-                lstbxHoursEmpID.DataSource = sortedHours;
-                lstbxHoursEmpID.DisplayMember = "EmpID";
-                lstbxHoursDaysWorked.DataSource = sortedHours;
-                lstbxHoursDaysWorked.DisplayMember = "WorkDate";
-                lstbxHoursWorked.DataSource = sortedHours;
-                lstbxHoursWorked.DisplayMember = "Hours";
+                SortHoursWorkedByDate(hours);
             }
             else
             {
                 MessageBox.Show(@"Cannot get employee hours");
             }
+        }
+
+        /// <summary>
+        /// sort the hours on the 'Hours' by date
+        /// </summary>
+        /// <param name="hours"></param>
+        public void SortHoursWorkedByDate(Result<EmployeeHours> hours)
+        {
+            // create a new list of all the work hours sorted by date
+            List<EmployeeHours> sortedHours = hours.Data.OrderBy(h => h.WorkDate).ToList();
+
+            // populate the three listboxes on the 'manage hours' tab
+            lstbxHoursEmpID.DataSource = sortedHours;
+            lstbxHoursEmpID.DisplayMember = "EmpID";
+            lstbxHoursDaysWorked.DataSource = sortedHours;
+            lstbxHoursDaysWorked.DisplayMember = "WorkDate";
+            lstbxHoursWorked.DataSource = sortedHours;
+            lstbxHoursWorked.DisplayMember = "Hours";
         }
 
         #endregion
@@ -148,6 +157,8 @@ namespace ETS
             lstbxHomeHours.DisplayMember = "Hours";
             lblHomeTotalHours.Text = CountTotalHours(sortedHours);
         }
+
+
 
         /// <summary>
         /// add up the total hours worked by the selected employee

@@ -476,7 +476,6 @@
             this.btnIncreaseId.TabIndex = 35;
             this.btnIncreaseId.Text = ">";
             this.btnIncreaseId.UseVisualStyleBackColor = true;
-            this.btnIncreaseId.Visible = false;
             this.btnIncreaseId.Click += new System.EventHandler(this.btnIncreaseId_Click);
             // 
             // btnDecreaseId
@@ -488,7 +487,6 @@
             this.btnDecreaseId.TabIndex = 34;
             this.btnDecreaseId.Text = "<";
             this.btnDecreaseId.UseVisualStyleBackColor = true;
-            this.btnDecreaseId.Visible = false;
             this.btnDecreaseId.Click += new System.EventHandler(this.btnDecreaseId_Click);
             // 
             // dateTimeAddEmployee
